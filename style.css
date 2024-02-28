@@ -1,0 +1,21 @@
+/*
+Theme Name: FDD Theme
+Theme URI: http://tudominio.com/fdd-theme
+Author: Tu Nombre o el de tu empresa
+Author URI: http://tudominio.com/
+Description: Un tema minimalista diseñado para WordPress con enfoque en la simplicidad y la elegancia, utilizando Tailwind CSS para estilos modernos y responsivos.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: fdd-theme
+Tags: minimalista, moderno, responsivo, blog, personal, portfolio, business, bootstrap, e-commerce, RTL-language-support, translation-ready, custom-colors, custom-menu, featured-images, theme-options, threaded-comments
+
+Este tema, FDD Theme, es un tema minimalista diseñado para ofrecer una experiencia de usuario limpia y moderna, optimizado para un rendimiento rápido y una accesibilidad mejorada.
+*/
+
+@font-face {
+    font-family: 'Cursiva';
+    src: url('./assets/fonts/PinyonScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

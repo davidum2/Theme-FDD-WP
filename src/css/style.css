@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body-font {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  @font-face {
+    font-family: 'FuenteTitulos';
+    src: url('../../assets/fonts/PinyonScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
